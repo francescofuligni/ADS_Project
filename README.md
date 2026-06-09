@@ -1,4 +1,5 @@
 # Algorithms-Data-Structures
 
-Progetto realizzato da Francesco Maria Fuligni nell'ambito del corso di Algoritmi e Strutture Dati, parte del Corso di Laurea in Informatica per il Management, Università di Bologna, anno 2024.
-Il progetto richiede la risoluzione degli esercizi presentati nel file Specifiche-Progetto.pdf.
+Project developed by Francesco Maria Fuligni as part of the Algorithms and Data Structures course, within the Bachelor's Degree in Informatics for Management at the University of Bologna, in 2024.
+
+The project requires solving the exercises presented in the `Specifiche-Progetto.pdf` file.
